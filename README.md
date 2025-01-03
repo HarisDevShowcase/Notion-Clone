@@ -4,11 +4,6 @@
 
 <p id="description">Unlock the potential of modern web development by enrolling in our comprehensive course on building a Notion clone using cutting-edge technologies. This hands-on project-based learning experience will guide you through the entire process of creating a feature-rich collaborative note-taking application equipped with the latest web development tools and frameworks.</p>
 
-<h2>🚀 Demo</h2>
-
-[https://notion.sammi.ac/](https://notion.sammi.ac/)
-
-  
   
 <h2>🧐 Features</h2>
 
